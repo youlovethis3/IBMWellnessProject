@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>SeparationCharacter-ts</name>
+  <description>SeparationCharacter</description>
+  <vendor></vendor>
+  <version></version>
+  <types>
+    <typeDescription>
+      <name>com.myCompany.DictSeparationCharacter</name>
+      <description>SeparationCharacter</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

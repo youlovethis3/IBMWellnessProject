@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/jVinci.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-adapter-soap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-adapter-vinci.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-cpe.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-document-annotation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-examples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uimaj-as-activemq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uimaj-as-camel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uimaj-as-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uimaj-as-jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uimaj-bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/uima-tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Downloads/apache-uima-as-2.4.0/lib/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="lib/javacsv.jar"/>
+	<classpathentry kind="lib" path="lib/javacsv-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

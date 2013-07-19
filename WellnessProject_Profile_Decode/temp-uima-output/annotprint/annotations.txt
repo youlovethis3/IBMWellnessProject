@@ -1,0 +1,37 @@
+
+
+<++++NEW DOCUMENT++++>
+DOCUMENT URI:file:/C:/shangqingworkspace/uimaj-examples/WellnessData/profile_example.txt
+
+
+
+15 body condition features are analyzed 
+2 features are Excellent 
+4 features are Good 
+3 features are Fair 
+3 features are Poor 
+
+
+What kind of moderate or aerobic exercise can reduce body weight? 
+Evidence:  weight: 205 lbs 
+Evidence:  height: 6 feet 0 inches 
+Evidence:  So your BMI is about 27.802567661462486 
+Evidence:  body fat |high, 26% fat rate in your body | poor | 
+Evidence:  coronary risk | moderate risk |fair | 
+
+What kinds of drink could mitigate insomnia?
+Evidence:  sleep | 8 hrs  | poor| 
+Evidence:  alcohol consumption | light alcohol use | good | 
+
+Any physical activity can help to get a better sleep?
+Evidence:  sleep | 8 hrs  | poor| 
+
+what kinds of activity is most popular among teenagers?
+Evidence:  age: 18 
+
+Any moderate activity since I have low blood pressure?
+Evidence:  blood pressure | 120 / 70 mmhg |excellent | 
+
+
+
+

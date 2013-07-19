@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Company-ts</name>
+  <description>Company</description>
+  <vendor></vendor>
+  <version></version>
+  <types>
+    <typeDescription>
+      <name>com.myCompany.DictCompany</name>
+      <description>Company</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>FeatureStandard-ts</name>
+  <description>FeatureStandard</description>
+  <vendor></vendor>
+  <version></version>
+  <types>
+    <typeDescription>
+      <name>com.myCompany.DictFeatureStandard</name>
+      <description>FeatureStandard</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

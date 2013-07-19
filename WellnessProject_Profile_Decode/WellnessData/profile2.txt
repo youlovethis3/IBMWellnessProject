@@ -1,0 +1,22 @@
+Bob's Profile
+height: 6 feet 0 inches
+weight: 205 lbs
+age: 50
+diabetes: yes and any kind of discription
+
+Fitness level , High fitness  | Excellent |
+Nutrition status | Good eating habits | Fair |
+Smoking | Frequently smoked |poor |
+Cholesterol level | 269 mg/dL* |Poor |
+Blood pressure | 140 / 90 mmHg |Poor |
+Body fat |high, 33% fat rate in your body | Poor |
+Coronary risk | Moderate risk |Fair |
+Stress | Heavy Stress | Fair |
+Alcohol consumption | Heavy Drinker | Poor |
+Seatbelt usage |Always |Excellent |
+Safety score |Safety conscious |Good |
+Happiness scale | Pretty happy |Good |
+Sleep | 5 hrs  | Poor|
+Sick days |3-4 days | Fair |
+Cancer awareness |Normal cancer risk |Good|
+Overall wellness rating Fair, but needs improving |Fair|

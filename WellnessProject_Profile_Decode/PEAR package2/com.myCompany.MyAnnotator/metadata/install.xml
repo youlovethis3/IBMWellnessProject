@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COMPONENT_INSTALLATION_DESCRIPTOR>
+	<OS>
+	</OS>
+	<TOOLKITS>
+	</TOOLKITS>
+	<UIMA_FRAMEWORK>
+	</UIMA_FRAMEWORK>
+	<SUBMITTED_COMPONENT>
+		<ID>com.myCompany.MyAnnotator</ID>
+		<NAME>MyAnnotator</NAME>
+		<DESC>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/lw_PosRule.xml</DESC>
+		<DEPLOYMENT>standard</DEPLOYMENT>
+		<SERVICE_COMMAND></SERVICE_COMMAND>
+		<SERVICE_WORKING_DIR></SERVICE_WORKING_DIR>
+		<SERVICE_COMMAND_ARGS>
+		</SERVICE_COMMAND_ARGS>
+		<COMMENTS>Studio Annotator created by IBM Content Analytics Studio 8.0.0.0 (Build id: 201303231200-Watson)</COMMENTS>
+	</SUBMITTED_COMPONENT>
+	<INSTALLATION>
+		<PROCESS>
+			<ACTION>set_env_variable</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Resources Data Path</COMMENTS>
+				<VAR_VALUE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</VAR_VALUE>
+				<VAR_NAME>uima.datapath</VAR_NAME>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>set_env_variable</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Class Path</COMMENTS>
+				<VAR_VALUE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/dlt.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/icu4j.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/an_dlt.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/jfst.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/antlr-2.7.5.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-1.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-2.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-3.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-4.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-5.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-6.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-7.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.dltj.FeatureNormalizers-8.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-9.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-10.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-11.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-12.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-13.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-14.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-15.jar;C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/lib/com.ibm.watson.lw.util-16.jar</VAR_VALUE>
+				<VAR_NAME>CLASSPATH</VAR_NAME>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>find_and_replace_path</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Actual location</COMMENTS>
+				<REPLACE_WITH>file:///C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</REPLACE_WITH>
+				<FILE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/LangID0.xml</FILE>
+				<FIND_STRING>file:resources/</FIND_STRING>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>find_and_replace_path</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Actual location</COMMENTS>
+				<REPLACE_WITH>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</REPLACE_WITH>
+				<FILE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/LangID0.xml</FILE>
+				<FIND_STRING>../resources/</FIND_STRING>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>find_and_replace_path</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Actual location</COMMENTS>
+				<REPLACE_WITH>file:///C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</REPLACE_WITH>
+				<FILE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/LWAnnotator1.xml</FILE>
+				<FIND_STRING>file:resources/</FIND_STRING>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>find_and_replace_path</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Actual location</COMMENTS>
+				<REPLACE_WITH>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</REPLACE_WITH>
+				<FILE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/LWAnnotator1.xml</FILE>
+				<FIND_STRING>../resources/</FIND_STRING>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>find_and_replace_path</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Actual location</COMMENTS>
+				<REPLACE_WITH>file:///C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</REPLACE_WITH>
+				<FILE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/LWShallowParser3.xml</FILE>
+				<FIND_STRING>file:resources/</FIND_STRING>
+			</PARAMETERS>
+		</PROCESS>
+		<PROCESS>
+			<ACTION>find_and_replace_path</ACTION>
+			<PARAMETERS>
+				<COMMENTS>Actual location</COMMENTS>
+				<REPLACE_WITH>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/resources/</REPLACE_WITH>
+				<FILE>C:/shangqingworkspace/uimaj-examples/PEAR package2/com.myCompany.MyAnnotator/desc/LWShallowParser3.xml</FILE>
+				<FIND_STRING>../resources/</FIND_STRING>
+			</PARAMETERS>
+		</PROCESS>
+	</INSTALLATION>
+</COMPONENT_INSTALLATION_DESCRIPTOR>

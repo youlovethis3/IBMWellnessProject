@@ -1,0 +1,84 @@
+
+
+<++++NEW DOCUMENT++++>
+DOCUMENT URI:file:/C:/shangqingworkspace/uimaj-examples/WellnessData/profile1.txt
+
+
+
+16 body condition features are analyzed 
+2 features are Excellent 
+6 features are Good 
+2 features are Fair 
+2 features are Poor 
+
+
+1:  what kinds of activities are most popular among teenagers?
+Evidence:  age: 18 
+
+2:  What is the statistical possibility to get diabetes if my BMI is 19.25856207446527?
+Evidence:  diabetes: no and any kind of description 
+
+3:  How much water should a 6 feet 2 inches person drink everyday?
+
+4:  How much calories I need to take everyday to keep my weight if I am 6 feet 2 inches 
+and 150.0 lbs?
+Evidence:  weight: 150 lbs 
+Evidence:  height: 6 feet 2 inches 
+
+5:  How many minutes of exercises should a person at age 18 take everyday?
+
+6:  How much calories of exercises should a person take to reduce 2 pounds a week?
+
+
+
+
+
+
+<++++NEW DOCUMENT++++>
+DOCUMENT URI:file:/C:/shangqingworkspace/uimaj-examples/WellnessData/profile2.txt
+
+
+
+16 body condition features are analyzed 
+1 features are Excellent 
+3 features are Good 
+4 features are Fair 
+5 features are Poor 
+
+
+1:  What kind of moderate or aerobic exercise can reduce body weight? 
+Evidence:  weight: 205 lbs 
+Evidence:  height: 6 feet 0 inches 
+Evidence:  So your BMI is about 27.802567661462486 
+Evidence:  body fat |high, 33% fat rate in your body | poor | 
+Evidence:  coronary risk | moderate risk |fair | 
+
+2:  What kinds of physical activity should diabetes patients avoid?
+Evidence:  diabetes: yes and any kind of discription 
+
+3:  What kinds of drinks could mitigate insomnia?
+Evidence:  sleep | 5 hrs  | poor| 
+Evidence:  alcohol consumption | heavy drinker | poor | 
+
+4:  what kinds of physical activity is good for elderly people?
+Evidence:  age: 50 
+
+5:  How much water should a 6 feet 0 inches person drink everyday?
+
+6:  What physical activity can improve sleep?
+Evidence:  sleep | 5 hrs  | poor| 
+
+7:  What moderate acitivties can solve high blood pressure?
+Evidence:  blood pressure | 140 / 90 mmhg |poor | 
+
+8:  How much calories of exercises should a person take to reduce 2 pounds a week?
+
+9:  How much calarios I need to take everyday to keep my weight if I am 6 feet 0 inches and 205.0 lbs?
+Evidence:  weight: 205 lbs 
+Evidence:  height: 6 feet 0 inches 
+
+10:  How many minutes of exercises should a person at age 50 take everyday?
+
+
+
+
