@@ -46,7 +46,7 @@ public class shangqingCVSconsummer {
     }
     
   
-    public void writeCsv(){
+    public void writeCsv(){ 
         try {
            
             String csvFilePath = "c:/test.csv";
